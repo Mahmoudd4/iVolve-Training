@@ -7,7 +7,7 @@ After that I downloaded the msmtp and mailutils so that I can send an email to m
 ![Screenshot](./screenshots/myscript.png)
 
 I had an issue where I sent an email it kept getting me an error, so the issue was in the configuration file for the msmtprc file, so I got an app password from my gmail so that I can add it in this file, as it does not accept the normal password, it has to be a 16 digit created app password, here the configuration file I made:
-![Screenshot](./screenshots/config.png)
+![Screenshot](./screenshots/configg.png)
 
 After that the script worked and I was able to recieve the email, here is a screenshot for it:
 ![Screenshot](./screenshots/email.png)
